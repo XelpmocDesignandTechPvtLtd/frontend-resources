@@ -3,6 +3,11 @@
 Welcome to the frontend library. This is a list of resources that you can use in order to get better at our frontend stack.
 To submit a new resource for consideration, send Prakash a message and he'll add it to this list.
 
+The username/password for egghead.io is
+
+Username: prakash@xelpmoc.in
+Password: xelpmoc2018
+
 ## React
 
 The best place to learn React is from Facebook's documentation.
